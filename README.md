@@ -53,3 +53,5 @@ The data can then be given to a path finding algorithm, such as Dijkstra, to fin
   "Stoneygate Road":"27753748"
 ...
 ```
+### Issues
+1. It appreas that the distance of the road is sometimes not calculated correctly, as the tool stops adding the distances if it cannot find any more connecting paths.
