@@ -42,7 +42,7 @@ The data can then be given to a path finding algorithm, such as Dijkstra, to fin
   }
  ...
 ```
-##### 2. It then goes through the parsed data and build a JSON file containing all of the unique roads
+##### 3. It then goes through the parsed data and build a JSON file containing all of the unique roads
 ```
 ...
   "Deacon Street":"48812592",
